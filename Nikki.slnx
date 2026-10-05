@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Nikki/Nikki.vcxproj" Id="07ec4e1b-75b8-4b11-b593-01c7b0f4c5e8" />
+</Solution>
